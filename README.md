@@ -1,4 +1,4 @@
-<h1 align="left">Hello there :). My name is Marcos Toledo Sánchez</h1>
+<h1 align="left">Hello :). My name is Marcos Toledo Sánchez</h1>
 
 ###
 
@@ -36,5 +36,15 @@
 ###
 
 <p align="left">I am currently working on personal projects to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C#. <br><br>Developing videogame oriented projects like character skill trees created with the use of Json (JSON.NET). <br><br>And projects such as the creation of procedural terrains with the use of Delaunay Triangulation and Vornoi Diagrams.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://tenor.com/es/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487"  />
+</div>
+
+###
+
+<p align="left">See you out there, developer</p>
 
 ###
