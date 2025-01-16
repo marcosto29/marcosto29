@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I am currently working on personal projects to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C#. <br><br>Developing videogame oriented projects like character skill trees created with the use of Json. <br><br>And projects such as the creation of procedural terrains with the use of Delaunay Triangulation and Vornoi Diagrams.</p>
+<p align="left">I am currently working on personal projects to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C#. <br><br>Developing videogame oriented projects like character skill trees created with the use of Json. <br><br>And projects such as the creation of procedural terrains with the use of Delaunay Triangulation and Vornoi Diagrams. <br><br>I've been working on different projects throughout my career, including some like studying reinforcement learning focused on video game environments, as well as projects like complete videogames.</p>
 
 ###
 
