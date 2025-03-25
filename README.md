@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="c-logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I am currently working on personal projects to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C#. <br><br>Developing videogame oriented projects like character skill trees created with the use of Json. <br><br>And projects such as the creation of procedural terrains with the use of Delaunay Triangulation and Vornoi Diagrams. <br><br>I've been working on different projects throughout my degree, including some like studying reinforcement learning focused on video game environments, as well as projects like complete videogames.</p>
+<p align="left">I am currently working on personal projects to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C#. <br><br>Developing videogame oriented projects like character skill trees created with the use of Json (JSON.NET). <br><br>And projects such as the creation of procedural terrains with the use of Delaunay Triangulation and Vornoi Diagrams.</p>
 
 ###
 
