@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a recently graduated software developer eager to work and continue learning, I am mostly comfortable working with:</p>
+<p align="left">I am a recently graduated software developer and a current student of 42 university eager to work and continue learning I am mostly comfortable working with:</p>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I am currently working on personal projects to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C# while deeply learning C. <br><br>Developing videogame oriented projects like character skill trees created with the use of Json (JSON.NET). <br><br>And projects such as the creation of procedural terrains with the use of Delaunay Triangulation and Vornoi Diagrams.</p>
+<p align="left">I am currently studying and making projects on 42 university to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C# (for personal projects) while deeply learning C.
 
 ###
 
