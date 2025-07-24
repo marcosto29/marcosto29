@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I am currently studying and making projects on 42 university to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>Right now I am working on Unity and C# (for personal projects) while deeply learning C.
+<p align="left">I am currently studying and making projects on 42 university to not only make my portfolio and curriculum more compelling, but also to continue learning and grow as a developer.<br><br>At the same time I am working on Unity and C# (for personal projects) while deeply learning C.
 
 ###
 
